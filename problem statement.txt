@@ -1,0 +1,10 @@
+Problem Statement 1
+Scenario: In many residential communities, residents often rely on outdated methods of
+communication, such as paper notices on bulletin boards, emails, or word of mouth, to stay
+informed about important updates. For instance, a neighborhood might need to notify residents
+about a planned water shutoff, a scheduled community clean-up day, or an upcoming
+neighborhood watch meeting. These traditional methods can result in missed information or
+delayed updates, leading to confusion and frustration among residents. For example, if a
+community event is announced via email but a resident doesn't check their inbox regularly, they
+might miss the event entirely. This lack of effective communication can contribute to a sense of
+disconnection and dissatisfaction within the community
