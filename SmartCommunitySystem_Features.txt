@@ -1,0 +1,42 @@
+Features of the Smart Community Communication System
+
+- Secure Registration & Admin Approval
+  • Register using a community access code and phone number
+  • Admin verifies each user before granting access
+  • One user = One verified community
+
+- Emergency Alert (SOS) System
+  • One-click SOS alerts sent by users to admins
+  • Real-time delivery via dashboard, SMS, or WhatsApp
+  • Alerts logged with timestamps and optional user location
+
+- High-Priority Notification System
+  • Admins can tag alerts as Emergency, Important, or Normal
+  • Notification delivery via:
+      - In-app (Firebase Push)
+      - SMS (Twilio or similar)
+      - WhatsApp (Meta Cloud API)
+  • Smart fallback delivery if user is inactive
+
+- Event Board & Calendar Integration
+  • Browse events categorized by type (Social, Maintenance, etc.)
+  • Filters for upcoming, running, and past events
+  • RSVP feature for residents
+
+- Notification Preferences
+  • Users can customize alert delivery: SMS, WhatsApp, Email
+  • Preferences stored and applied to all communications
+
+- Admin Dashboard
+  • Approve or reject user registrations
+  • Create, edit, and manage events
+  • Monitor and respond to emergency alerts
+  • Review community feedback
+
+- Feedback System
+  • Residents can submit feedback on events or platform issues
+  • Admins can view, track, and address feedback
+
+- Multi-Community Support
+  • Manage multiple residential communities
+  • Residents tied to one verified community only
