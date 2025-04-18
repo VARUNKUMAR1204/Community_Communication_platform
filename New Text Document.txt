@@ -1,0 +1,25 @@
+Sure! Here's your Week 1 Capstone Project Update in a clean and professional format:
+
+---
+
+### **Capstone Project – Week 1 Update**
+
+**1. Work Completed:**  
+- Finalized business requirements  
+- Created use case diagram  
+
+**2. Challenges Faced:**  
+- Difficulty in gathering user requirements  
+- Challenges in finalizing features  
+
+**3. Inputs from Week 1 Mentor Review:**  
+- Brainstorm additional features to enhance user experience  
+- Create layout designs for both admin and user dashboards  
+
+**4. Next Steps (Week 2 Plan):**  
+- Add more features to the admin side  
+- Design layout diagrams for the UI  
+
+---
+
+Let me know if you'd like this in a PDF or want to add your team members’ names, project title, or any other details!
