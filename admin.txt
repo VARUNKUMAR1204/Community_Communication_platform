@@ -1,0 +1,66 @@
+ADMIN WORKFLOW (Community Admin)
+
+1. Registration
+
+Admin registers using name, phone, community access code
+
+Verified via internal or super admin process
+
+2. Login
+
+Logs in and receives admin-specific JWT token
+
+Redirected to admin dashboard
+
+3. Admin Dashboard Features
+
+View pending user approval requests
+
+Approve or reject residents after verifying phone/access code
+
+View full resident list by community
+
+Quick “Tap-to-Call” contact option
+
+4. Notification Management
+
+Send alerts (Emergency / Important / Normal)
+
+Choose delivery type: In-App,  SMS
+
+Use saved alert templates for recurring messages
+
+Target alerts to specific groups (e.g., Block A only)
+
+5. Event Management
+
+Create/edit/delete events
+
+Attach descriptions, dates, categories
+
+View RSVP stats (who’s attending) and get stats of residents
+
+Schedule reminders for upcoming events
+
+6. Emergency Alerts Handling
+
+Receive real-time SOS alerts from users
+
+View user location (if permision provided)
+
+View SOS history for reference
+
+7. Issue Monitoring
+
+Read user-submitted complaints
+
+Respond, mark as Resolved/In Progress
+
+Identify common community concerns
+
+8. visitor management 
+registeres staff such as watchman
+
+he can add the details of visitor visiting the residents with flat number
+
+view the visitor list on dashbaord
