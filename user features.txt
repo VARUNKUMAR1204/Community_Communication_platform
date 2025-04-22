@@ -1,0 +1,86 @@
+ USER WORKFLOW (Resident)
+
+🟢 1. Registration
+
+Registers with name, phone, and community access code
+
+Request sent to community admin for approval
+
+🟢 2. Approval Process
+
+Admin verifies phone number and access code
+
+Once approved, user is granted access to the platform
+
+🟢 3. Login
+
+User logs in and receives JWT token
+
+Dashboard loads with community-specific info
+
+🟢 4. User Dashboard Features
+
+See latest notices, events, and alerts
+
+Emergency (SOS) Button — one tap alert to admin
+
+Alert Preview Panel — top 3 recent updates
+
+Notification History (past 10 alerts)
+
+Community Info tab (rules, admin contact, etc.)
+
+Access profile and edit preferences
+
+🟢 5. Event Management (User Side)
+
+View event calendar
+
+Filter by category (Social, Maintenance, Meeting)
+
+RSVP to events with one tap
+
+Bookmark/save events for quick access
+
+🟢 6. Notification Preferences
+
+Choose preferred delivery method: App, WhatsApp, SMS
+
+Mute or unmute non-critical updates (silent mode)
+
+🟢 7. Report an Issue
+
+Submit feedback on events, issues, suggestions
+
+Track if issue is marked as Resolved or Noted
+
+
+
+features
+
+1.Get Important Alerts Instantly 
+“You’ll receive all important updates — like water supply cutoffs, event invitations, or safety warnings — directly on your phone through the app, SMS, or WhatsApp.”
+
+2.One-Tap SOS Button
+“If there’s an emergency at home — like a fire, theft, or medical issue — you can tap the SOS button in the app. Admins get your alert with your location immediately.”
+
+3.Easy-to-See Events
+“You can check what events are happening in your community — like Diwali celebrations, maintenance shutdowns, or cleaning drives — and RSVP in one click.”
+
+4.Raise Issue Easily
+“Don’t wait for meetings. You can send suggestions, complaints, or compliments directly to your community admin.”
+
+5. Control What You Get Notified About
+“If you only want to get alerts about emergencies or events — and not every small notice — you can set that up yourself.”
+
+6. Bookmark What Matters
+“You can save event invites or important messages to check later.”
+
+7.Emergency contacts
+"if you want to call admin or security directly from dashbaord"
+
+8.polls
+"you can participate in polls and see the count of people attending event.
+
+9.visitor
+"can see visitor visiting the resident"
